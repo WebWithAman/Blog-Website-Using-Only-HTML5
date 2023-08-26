@@ -1,2 +1,2 @@
-# Blog-Website-Using-Only-HTML5
-This is a Simple Blog Website Created Using Only HTML5...
+# blog-website-using-only-html
+This is a simple and attractive Blogs website created using only HTML.
