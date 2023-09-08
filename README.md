@@ -17,7 +17,7 @@ To use this static blog, you need to have a GitHub account and a basic knowledge
 
 ## Demo
 
-You can see a live demo of this static blog [here](^1^).
+You can see a live demo of this static blog [https://blogwebsitebyaman.netlify.app].
 
 ## License
 
