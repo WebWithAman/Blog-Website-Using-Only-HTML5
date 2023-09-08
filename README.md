@@ -21,4 +21,4 @@ You can see a live demo of this static blog [https://blogwebsitebyaman.netlify.a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](^2^) file for details.
+This project is licensed under the MIT License - see the [MIT) file for details.
