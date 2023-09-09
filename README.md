@@ -15,6 +15,16 @@ To use this static blog, you need to have a GitHub account and a basic knowledge
 2. Clone the forked repo to your local machine.
 3. Open the `index.html` file in your browser to see the homepage of the blog.
 
+## Installation
+
+To install this project, you need to have Git installed on your computer. You can download Git from [here].
+
+Then, you need to clone this repo to your local machine using the following command:
+
+```bash
+git clone https://github.com/webwithaman/blog-website-using-only-html.git
+```
+
 ## Demo
 
 You can see a live demo of this static blog [https://blogwebsitebyaman.netlify.app].
