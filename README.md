@@ -4,4 +4,4 @@ This is a colorful static blog website using only HTML to enhance my fundamental
 
 ## Live Demo
 
-You can see a live demo of this static website [https://blogwebsitebyaman.netlify.app].
+You can see a live demo of this static website [https://blog-website-only-html-webwithaman.netlify.app/]
